@@ -2,7 +2,7 @@
 
 In-depth documentation on this SDK is available at [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
 
-This modifies uniswap-sdk's UniswapV2Factory address. The new address for swipeswap is  `0x252dD6a11Ef272A438A36d1A2370eEd820099547`.
+This modifies uniswap-sdk's UniswapV2Factory address. The new address for swipeswap is  `0x8a93B6865C4492fF17252219B87eA6920848EdC0`.
 
 ## Running tests
 
