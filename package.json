@@ -1,18 +1,19 @@
 {
-  "name": "@sushiswap/sdk",
+  "name": "@swipewallet/swipeswap-sdk",
   "license": "MIT",
   "version": "5.0.0-canary.12",
-  "description": "🛠 An SDK for building applications on top of Sushiswap.",
+  "description": "🛠 An SDK for building applications on top of Swipe Swap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/sushiswap/sushiswap-sdk",
+  "repository": "https://github.com/swipeswap/swipeswap-sdk",
   "keywords": [
     "uniswap",
-    "sushiswap",
-    "ethereum"
+    "swipeswap",
+    "ethereum",
+    "bsc"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
