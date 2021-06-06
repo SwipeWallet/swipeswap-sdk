@@ -35,19 +35,21 @@ yarn test
 You should see output like the following:
 
 ```sh
-yarn run v1.22.4
+yarn run v1.22.10
 $ tsdx test
- PASS  test/constants.test.ts
- PASS  test/pair.test.ts
+ PASS  test/route.test.ts
  PASS  test/fraction.test.ts
  PASS  test/miscellaneous.test.ts
- PASS  test/entities.test.ts
+ PASS  test/router.test.ts
+ PASS  test/pair.test.ts
+ PASS  test/token.test.ts
  PASS  test/trade.test.ts
+ PASS  test/entities.test.ts
 
-Test Suites: 1 skipped, 6 passed, 6 of 7 total
-Tests:       3 skipped, 82 passed, 85 total
+Test Suites: 2 skipped, 8 passed, 8 of 10 total
+Tests:       4 skipped, 124 passed, 128 total
 Snapshots:   0 total
-Time:        5.091s
+Time:        4.497s
 Ran all test suites.
-✨  Done in 6.61s.
+✨  Done in 6.94s.
 ```
