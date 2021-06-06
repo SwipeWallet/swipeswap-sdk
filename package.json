@@ -1,7 +1,7 @@
 {
   "name": "@swipewallet/swipeswap-sdk",
   "license": "MIT",
-  "version": "5.0.0-canary.12",
+  "version": "1.0.0",
   "description": "🛠 An SDK for building applications on top of Swipe Swap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
